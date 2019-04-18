@@ -1,0 +1,5 @@
+4
+Nguyen Van Bao,01/02/1999,Cntt16,17150018,9
+Tran Duc Anh,3/2/1999,Ktpm16,17150029,8
+Ngyen Van An,4/3/1999,Ktpm16,17150038,5
+Pham Hoanh Anh,6/4/1999,Ktpm16,17150007,8
